@@ -8,9 +8,7 @@ A simple PDF extractor application built using Python and Tkinter.
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -40,6 +38,7 @@ This Python application provides a user-friendly interface to extract text conte
    ```bash
    python main.py
 
+## Screenshots
 ![image](https://github.com/Prasadchaskar/pdf-extractor-gui/assets/72083319/3f67a4f8-2273-418a-89e1-c88397dbe75b)
 ![image](https://github.com/Prasadchaskar/pdf-extractor-gui/assets/72083319/bf18a60f-a68f-4565-bf83-03b044e7c959)
 
